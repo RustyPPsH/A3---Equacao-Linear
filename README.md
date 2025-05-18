@@ -12,3 +12,7 @@ Resolver equações lineares por métodos de eliminação de Gauss
 ---
 ## Pré‑requisitos
 - **Python 3.8+** instalado no sistema.
+
+---
+## Instruções
+- Baixe o arquivo **CalculadoraEL.zip** e execute **Calculadora.exe** em **...Calc\dist\Calculadora**
